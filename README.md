@@ -1,4 +1,5 @@
 # knockout-dragdrop
+[![CDNJS version](https://img.shields.io/cdnjs/v/knockout-dragdrop.svg)](https://cdnjs.com/libraries/knockout-dragdrop)
 
 A drag and drop binding for Knockout.
 
